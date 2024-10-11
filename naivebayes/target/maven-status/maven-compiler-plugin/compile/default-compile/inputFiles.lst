@@ -1,0 +1,5 @@
+/mnt/d/NaiveBayesMapReduce/naivebayes/src/main/java/com/example/NaiveBayesTrainReducer.java
+/mnt/d/NaiveBayesMapReduce/naivebayes/src/main/java/com/example/NaiveBayesTrainJob.java
+/mnt/d/NaiveBayesMapReduce/naivebayes/src/main/java/com/example/NaiveBayesTrainMapper.java
+/mnt/d/NaiveBayesMapReduce/naivebayes/src/main/java/com/example/NaiveBayesTestMapper.java
+/mnt/d/NaiveBayesMapReduce/naivebayes/src/main/java/com/example/NaiveBayesTestJob.java

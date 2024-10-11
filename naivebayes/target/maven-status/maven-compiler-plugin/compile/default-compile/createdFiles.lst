@@ -1,0 +1,5 @@
+com/example/NaiveBayesTestMapper.class
+com/example/NaiveBayesTrainMapper.class
+com/example/NaiveBayesTrainReducer.class
+com/example/NaiveBayesTestJob.class
+com/example/NaiveBayesTrainJob.class

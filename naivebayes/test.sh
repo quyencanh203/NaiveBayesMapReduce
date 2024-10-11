@@ -1,0 +1,1 @@
+hadoop jar target/naivebayes-1.0-SNAPSHOT.jar com.example.NaiveBayesTrainJob -D num_mappers="3" -D num_reducers="1" -D delimiter="," -D input="/iris-input/iris.csv" -D output="/outputiris-test" -D continousVariables="1,2,3,4" -D discreteVariables="" -D targetVariable="5" -D numColumns="5" -D modelPath="/outputiris" -D targetClasses="Iris-versicolor,Iris-setosa,Iris-virginica" 
